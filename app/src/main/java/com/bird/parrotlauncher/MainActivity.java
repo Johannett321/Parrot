@@ -13,5 +13,6 @@ public class MainActivity extends Activity {
 
 
         //hei eirik!
+        //23siermannegutt
     }
 }
