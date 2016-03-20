@@ -11,9 +11,5 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
 
 
-
-        //hei eirik!
-        //danielmann123
-        //Hei Johan
     }
 }
