@@ -13,5 +13,7 @@ public class MainActivity extends Activity {
 
 
         //hei eirik!
+
+        //Hei Johan
     }
 }
